@@ -40,5 +40,418 @@ Everyday Functioning Prompts:
   “How is encryption used in daily life when sending WhatsApp messages?”
 
   OUTPUT:
+  1.Comparative Analysis Prompt 
+
+Prompts: 
+
+1. I am going to buy a laptop or mobile for my college use, compare it and suggest me which one is better for me 
+
+2. Compare Google and Microsoft in terms of growth rate, annual income, etc. 
+
+Response: 
+
+1.  
+
+Feature 
+
+Mobile Phone 
+
+Laptop 
+
+Portability 
+
+Very easy to carry 
+
+Portable but needs a bag 
+
+Screen Size 
+
+Small screen 
+
+Large screen 
+
+Typing 
+
+Touch keyboard (slow for long typing) 
+
+Physical keyboard (best for assignments) 
+
+Software 
+
+Limited apps 
+
+Full software like VS Code, Excel, programming tools 
+
+Multitasking 
+
+Limited 
+
+Can run many apps together 
+
+Coding / Programming 
+
+Almost impossible 
+
+Perfect for coding and development 
+
+Assignments / Projects 
+
+Difficult 
+
+Easy to create documents, PPT, projects 
+
+Productivity 
+
+Mostly for communication 
+
+Best for studying and productivity 
+
+👉 Laptops support full software, better multitasking, and programming tools, which are necessary for college projects and assignments. 
+
+ 
+
+2.  
+
+Factor 
+
+Google (Alphabet) 
+
+Microsoft 
+
+Founded 
+
+1998 
+
+1975 
+
+Founders 
+
+Larry Page & Sergey Brin 
+
+Bill Gates & Paul Allen 
+
+Headquarters 
+
+California, USA 
+
+Washington, USA 
+
+Annual Revenue (2025) 
+
+~ $403 billion 
+
+~ $282 billion 
+
+Revenue Growth Rate 
+
+~ 15% yearly 
+
+~ 15% yearly 
+
+Net Income 
+
+~ $132 billion 
+
+~ $102 billion 
+
+Operating Margin 
+
+~ 32% 
+
+~ 44–47% 
+
+Market Capitalization 
+
+~ $3.7 trillion 
+
+~ $2.8 trillion 
+
+Main Business Areas 
+
+Search, Ads, YouTube, Cloud, AI 
+
+Software, Cloud, AI, Office tools 
+
+Cloud Platform 
+
+Google Cloud 
+
+Microsoft Azure 
+
+Cloud Growth Rate 
+
+~ 48% 
+
+~ 39% 
+
+ 
+
+📈 Growth Drivers 
+
+Google 
+
+Dominates online search and digital advertising. 
+
+Major platforms: Search, YouTube, Android, and Google Cloud. 
+
+Strong growth in AI and cloud services.  
+
+Microsoft 
+
+Strong enterprise software ecosystem. 
+
+Major products: Windows, Office, Azure Cloud, LinkedIn, Xbox. 
+
+Rapid growth due to AI integration and cloud computing (Azure). 
+
+ 
+
+ 
+
+2.Experiential Perspective Prompt 
+
+Prompt: 
+
+1. As a Machine Learning Expert, Explain What is ML? 
+
+2. As a Fullstack Developer, suggest me which one is better, MERN stack or MEAN stack which one is better? 
+
+Response: 
+
+1. What is Machine Learning? 
+
+Machine Learning (ML) is a branch of Artificial Intelligence that allows computers to learn from data and improve their performance automatically without being explicitly programmed. 
+
+In simple terms, instead of writing exact rules for a computer, we give data and let the system learn patterns from it. 
+
+ 
+
+Simple Definition 
+
+Machine Learning is the process of training a computer system using data so that it can make predictions or decisions automatically. 
+
+ 
+
+Example 
+
+Consider an Email Spam Filter. 
+
+The system is given thousands of emails labeled as Spam or Not Spam. 
+
+The ML algorithm studies patterns like: 
+
+Certain keywords 
+
+Sender information 
+
+Email structure 
+
+After learning these patterns, the system can automatically classify new emails as Spam or Not Spam. 
+
+So the computer learns from previous data instead of being manually programmed. 
+
+ 
+
+2. 1. What is MERN Stack? 
+
+MERN = MongoDB + Express.js + React + Node.js 
+
+MongoDB – NoSQL database 
+
+Express.js – Backend framework 
+
+React – Frontend library 
+
+Node.js – Runtime environment 
+
+Key Idea: Uses React for building interactive user interfaces. 
+
+Advantages 
+
+Very popular in industry 
+
+Huge community support 
+
+Flexible architecture 
+
+Used by many startups 
+
+Easier integration with modern tools 
+
+ 
+
+2. What is MEAN Stack? 
+
+MEAN = MongoDB + Express.js + Angular + Node.js 
+
+MongoDB 
+
+Express.js 
+
+Angular 
+
+Node.js 
+
+Key Idea: Uses Angular, which is a complete frontend framework. 
+
+Advantages 
+
+Structured architecture 
+
+Good for large enterprise applications 
+
+Built-in tools and features 
+
+ 
+
+3. Key Differences 
+
+Feature 
+
+MERN Stack 
+
+MEAN Stack 
+
+Frontend 
+
+React 
+
+Angular 
+
+Learning curve 
+
+Easier 
+
+Slightly harder 
+
+Flexibility 
+
+Very flexible 
+
+More structured 
+
+Industry demand 
+
+Very high 
+
+Moderate 
+
+Community 
+
+Huge 
+
+Large but smaller than React 
+
+ 
+
+4. Which One is Better for You? 
+
+Since you already said: 
+
+You completed HTML & CSS 
+
+You know basic JavaScript 
+
+You are learning Full Stack Development 
+
+👉 MERN Stack is better for you. 
+
+Reasons 
+
+React is easier to learn than Angular 
+
+More job opportunities 
+
+Used widely in startups and modern web apps 
+
+Fits well with your JavaScript learning path 
+
+ 
+
+3. Everyday Functioning Prompts: 
+
+Prompt: 
+
+1. Suggest a healthy breakfast recipe for today. 
+
+2. Give me a 7th day task for me in prompt engineering learning 
+
+Response: 
+
+1. Healthy Breakfast Recipe: Vegetable Oats 
+
+Ingredients: 
+
+1 cup oats 
+
+1 cup water or milk 
+
+1/4 cup chopped carrots 
+
+1/4 cup peas 
+
+1 small onion (chopped) 
+
+Salt to taste 
+
+1 teaspoon oil 
+
+Preparation: 
+
+Heat oil in a pan and sauté the chopped onion. 
+
+Add carrots and peas and cook for 2–3 minutes. 
+
+Add oats and water (or milk). 
+
+Add salt and cook for about 5 minutes until the oats become soft. 
+
+Serve hot. 
+
+Benefit: 
+This breakfast is rich in fiber, vitamins, and energy, which helps you stay active throughout the day. 
+
+2. Day 7 Task – Role-Based Prompting 
+
+Objective 
+
+Learn how to assign a role to the AI so that it gives more accurate and expert-level responses. 
+
+ 
+
+Task 1: Create a Role Prompt 
+
+Write a prompt where you assign a professional role to the AI. 
+
+Example Prompt: 
+
+“Act as a fitness trainer and suggest a 10-minute morning exercise routine for beginners.” 
+
+ 
+
+Task 2: Try a Different Role 
+
+Use another role and ask a question. 
+
+Example Prompt: 
+
+“Act as a financial advisor and explain how a college student can start saving money.” 
+
+ 
+
+Task 3: Compare the Response 
+
+Ask the question without a role. 
+
+Ask the same question with a role. 
+
+Compare the answers and observe: 
+
+Detail level 
+
+Accuracy 
+
+Structure of the response 
 
   RESULT:
+  Thus, the above prompting techniques are explored successfully.
